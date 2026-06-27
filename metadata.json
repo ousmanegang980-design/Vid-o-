@@ -1,0 +1,6 @@
+{
+  "name": "WayIn Video",
+  "description": "AI-powered text-to-video and image-to-video creative studio workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
